@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+  <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="forge-1.12.2-14.23.5.2855-mdk"/>
+  <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.legacydev.MainClient"/>
+  <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP"/>
+  <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value=""/>
+  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\forge-1.12.2-14.23.5.2855-mdk\run"/>
+  <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+    <mapEntry key="MCP_TO_SRG" value="D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\forge-1.12.2-14.23.5.2855-mdk\build\createSrgToMcp\output.srg"/>
+    <mapEntry key="MOD_CLASSES" value="D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\forge-1.12.2-14.23.5.2855-mdk\bin\main;D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\forge-1.12.2-14.23.5.2855-mdk\bin\main"/>
+    <mapEntry key="mainClass" value="net.minecraft.launchwrapper.Launch"/>
+    <mapEntry key="MCP_MAPPINGS" value="snapshot_20171003-1.12"/>
+    <mapEntry key="FORGE_VERSION" value="14.23.5.2855"/>
+    <mapEntry key="assetIndex" value="1.12"/>
+    <mapEntry key="assetDirectory" value="D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\.gradle\caches\forge_gradle\assets"/>
+    <mapEntry key="nativesDirectory" value="D:\Workspace\Forge\forge-1.12.2-14.23.5.2855-mdk\forge-1.12.2-14.23.5.2855-mdk\build\natives"/>
+    <mapEntry key="FORGE_GROUP" value="net.minecraftforge"/>
+    <mapEntry key="tweakClass" value="net.minecraftforge.fml.common.launcher.FMLTweaker"/>
+    <mapEntry key="MC_VERSION" value="${MC_VERSION}"/>
+  </mapAttribute>
+</launchConfiguration>
